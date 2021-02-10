@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<main>
+    <config>
+        <path>VCMPServer.exe</path>
+        <ishow>true</ishow>
+        <logfile>lcrash</logfile>
+    </config>
+</main>

@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1766" startPos="3037" endPos="3037" selMode="0" lang="SQL" encoding="-1" filename="C:\Users\Hendel\temp\Wolf Proyect\main.nut" />
+            <File firstVisibleLine="406" xOffset="0" scrollWidth="1766" startPos="19125" endPos="19125" selMode="0" lang="SQL" encoding="-1" filename="C:\Users\Hendel\temp\Wolf Proyect\Functions.nut" />
+            <File firstVisibleLine="471" xOffset="0" scrollWidth="1766" startPos="25385" endPos="25385" selMode="0" lang="SQL" encoding="-1" filename="C:\Users\Hendel\temp\Wolf Proyect\Commands.nut" />
+            <File firstVisibleLine="6" xOffset="0" scrollWidth="2062" startPos="614" endPos="614" selMode="0" lang="SQL" encoding="-1" filename="C:\Users\Hendel\temp\Wolf Proyect\Remote.nut" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
